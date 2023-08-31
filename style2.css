@@ -1,0 +1,47 @@
+
+.main{
+    background-color: black;    
+    height: 300px;
+    padding-left: 30%;
+}
+h3,div{
+    color: white;
+}
+h3{
+    text-decoration: underline;
+}
+.frstlin{
+    display: inline-block;
+    margin-right: 20px;
+}
+.scndlin{  
+    display: inline-block;
+}
+.btn1{
+    color: white;
+    border-color: transparent;
+    background-color: rgba(1, 2, 1, 0.717);
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 10px;
+    height: 25px;
+    font-size: 10px;
+
+}
+.btn1-div{
+    height: 60px;
+    width: 100px;
+    background-color: white;
+}
+
+.btn2{
+    border-color: transparent;
+    background-color: yellow;
+    cursor: pointer;
+    width: 120px;
+}
+.btn2-div{
+    height: 60px;
+    width: 160px;
+    background-color: white;
+}

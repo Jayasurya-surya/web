@@ -1,0 +1,22 @@
+h1, h2{
+    text-align: center;
+    text-decoration: dotted;
+    text-decoration-color: antiquewhite;
+    text-decoration-style: solid;
+    text-shadow: 0em;
+    text-indent: 0px;
+    text-transform: uppercase;
+    text-decoration-line:line-through;
+    
+  }
+  *{
+    background-color: rgb(87, 169, 196);
+  }
+  div{
+    padding-left: 0ch;
+    padding-inline-start: 0em;
+    padding: 58px;
+  }
+  p{
+
+  }
